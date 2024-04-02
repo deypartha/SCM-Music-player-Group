@@ -1,4 +1,4 @@
-jhsauoihgoesihp# testrepo
+
 scm test repo
-jh
 hello world
+this is for lifestyle of git.
